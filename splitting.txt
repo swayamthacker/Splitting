@@ -3,6 +3,15 @@
 #include <stdlib.h>
 
 
+//    int a = 10;
+//    char *intStr = itoa(a,buffer,10);
+//    string str = string(intStr);
+//    cout<<str<<endl;
+//http://stackoverflow.com/questions/5590381/easiest-way-to-convert-int-to-string-in-c
+//http://www.cplusplus.com/articles/D9j2Nwbp/
+//http://www.cplusplus.com/reference/cstdlib/atoi/
+//http://www.cplusplus.com/reference/cstdlib/itoa/
+
 
 using namespace std;
 int store;
