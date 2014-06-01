@@ -11,7 +11,7 @@
 //http://www.cplusplus.com/articles/D9j2Nwbp/
 //http://www.cplusplus.com/reference/cstdlib/atoi/
 //http://www.cplusplus.com/reference/cstdlib/itoa/
-
+//http://www.cplusplus.com/forum/general/13135/
 
 using namespace std;
 int store;
